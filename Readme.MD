@@ -1,11 +1,17 @@
 # Linux Server Configuration
 
 ### IP Adderss
-54.197.7.212
-To `ssh` into th grader user with private key:
+> 54.197.7.212
+
+> To `ssh` into th grader user with private key:
 ```
-$ ssh grader@54.197.7.212 -i grader -p 2222
+$ ssh grader@54.197.7.212 -i grader -p 2200
 ```
+
+### External Resources Used:
+1. **StackOverflow**
+2. **DigitalOcean Tutorials**
+3. **SQLAlchemy Documentation**
 
 ## Steps to configure your own server on Amazon AWS
 

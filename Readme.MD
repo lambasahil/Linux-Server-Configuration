@@ -152,7 +152,7 @@ $ ssh -i grader -p 2222 grader@54.197.7.212
 ### 7. Clone the project on server.
 Now the server is secure of all attacks. Clone the project onto the server.
 ```
-$ git clone https://github.com/nikhilbansal97/ItemCatalog.git
+$ git clone https://github.com/lambasahil/PokemonCatalog.git
 $ git branch aws
 $ git checkout aws
 ```
